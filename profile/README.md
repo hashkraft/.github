@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hashkraft.com/img/hk-logo.svg" alt="Hashkraft Technologies" />
+  <img src="https://hashkraft.com/img/hk-logo-black-bg.png" alt="Hashkraft Technologies" width="320"/>
 </p>
 
 <h1 align="center">Hashkraft Technologies</h1>
